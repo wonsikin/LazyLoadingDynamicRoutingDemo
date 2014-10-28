@@ -1,0 +1,18 @@
+{
+  "name": "monitorPlatform",
+  "version": "0.0.0",
+  "authors": [
+    "Arthur.WANG <fnghwsj@qq.com>"
+  ],
+  "description": "交易监控平台demo",
+  "main": "index.html",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
