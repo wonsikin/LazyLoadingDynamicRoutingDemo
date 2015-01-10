@@ -1,10 +1,10 @@
 {
-  "name": "monitorPlatform",
+  "name": "LazyLoadingDynamicRoutingDemo",
   "version": "0.0.0",
   "authors": [
     "Arthur.WANG <fnghwsj@qq.com>"
   ],
-  "description": "交易监控平台demo",
+  "description": "angular lazy loading demo",
   "main": "index.html",
   "license": "MIT",
   "private": true,
