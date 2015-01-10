@@ -5,13 +5,13 @@ require.config({
     baseUrl: '/demo',
     paths: {
         'routeConfig': 'routeConfig',
-        'jquery': 'bower_components/jquery/dist/jquery',
-        'bootstrap': 'bower_components/bootstrap/dist/js/bootstrap',
-        'angular': 'bower_components/angular/angular',
-        'angular-route': 'bower_components/angular-route/angular-route',
-        'echarts': 'bower_components/echarts/build/echarts',
-        'echarts/chart/bar': 'bower_components/echarts/build/echarts',
-        'echarts/chart/line': 'bower_components/echarts/build/echarts'
+        'jquery': 'vendor/jquery/dist/jquery',
+        'bootstrap': 'vendor/bootstrap/dist/js/bootstrap',
+        'angular': 'vendor/angular/angular',
+        'angular-route': 'vendor/angular-route/angular-route',
+        'echarts': 'vendor/echarts/build/echarts',
+        'echarts/chart/bar': 'vendor/echarts/build/echarts',
+        'echarts/chart/line': 'vendor/echarts/build/echarts'
     },
     shim: {
         'app': {
